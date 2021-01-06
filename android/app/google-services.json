@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347200824348",
+    "project_id": "guards-9bc18",
+    "storage_bucket": "guards-9bc18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347200824348:android:ce4017ba6123fc0bdd6bd9",
+        "android_client_info": {
+          "package_name": "com.example.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347200824348-cd8t694hj35pqkbj8a6s2b2pr7dhbh0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Xbm0G9mRt3LMk_otSsjm-5Lq1tbkn6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347200824348-cd8t694hj35pqkbj8a6s2b2pr7dhbh0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
